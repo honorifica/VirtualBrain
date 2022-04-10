@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"view","l":"BrainPanel"},{"p":"view","l":"Operate"},{"p":"db","l":"RecordDao"},{"p":"db","l":"RecordDaoImp"},{"p":"db","l":"SqlPerform"},{"p":"db","l":"SqlPerformImp"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();
